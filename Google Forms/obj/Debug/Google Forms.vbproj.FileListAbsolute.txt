@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Google Forms\obj\Debug\Google Forms.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Google Forms\obj\Debug\Google_Forms.Form1.resources
+C:\Users\HP\source\repos\Google Forms\obj\Debug\Google_Forms.Resources.resources
+C:\Users\HP\source\repos\Google Forms\obj\Debug\Google_Forms.ViewSubmissionsForm.resources
+C:\Users\HP\source\repos\Google Forms\obj\Debug\Google Forms.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\Google Forms\obj\Debug\Google Forms.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Google Forms\obj\Debug\Google_Forms.CreateSubmissionForm.resources
